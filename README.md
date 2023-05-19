@@ -45,3 +45,8 @@
 
 📝 Feel free to modify the code and experiment with different algorithms and techniques to improve the movie recommendation accuracy.
 
+## Acknowledgments
+
+The Movie Recommendation System is inspired by various Machine learning tutorials and examples available online. Special thanks to the creators of the Movie Recommendation System dataset for providing a valuable resource for this project.
+
+
